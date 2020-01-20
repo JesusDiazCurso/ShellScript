@@ -21,7 +21,7 @@ if [ $a -gt 4 ]
          echo " El valor " $a "no es mayor que 4!  "
          
 fi
-xxx script3  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxx script3 if-elif-else  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #!/bin/bash
 # Este script pide un número y lo muestra si es mayor que 4
 echo "Dame un número :"
@@ -36,3 +36,6 @@ if [ $a -gt 4 ]
          echo " El valor " $a "es iguala 4!  "
              
 fi
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
